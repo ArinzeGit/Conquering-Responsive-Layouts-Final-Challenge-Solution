@@ -23,7 +23,6 @@ This is my solution to the final challenge of the [Conquering Responsive Layouts
 The given design is for big screens over 1000pixels:  
 ![Big screen layout](design%20specifications/big-screen-layout.PNG)
 
-
 Additional specifications including typography and layout of middle section for small and medium screens:  
 ![Additional specifications](design%20specifications/additional-specifications.PNG)
 
@@ -42,7 +41,7 @@ Users should be able to:
 Small screen nav toggle on:  
 ![Small screen nav](solution%20screenshots/small-screen-nav.PNG)
 
-Small screen:  
+Small screen nav toggle off:  
 ![Small screen 1](solution%20screenshots/small-screen-1.PNG)  
 ![Small screen 2](solution%20screenshots/small-screen-2.PNG)
 
