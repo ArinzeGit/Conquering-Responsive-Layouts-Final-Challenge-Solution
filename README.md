@@ -38,10 +38,10 @@ Users should be able to:
 
 ### Screenshot
 
-Small screen nav toggle on:  
+Small screen - nav toggle on:  
 ![Small screen nav](solution%20screenshots/small-screen-nav.PNG)
 
-Small screen nav toggle off:  
+Small screen - nav toggle off:  
 ![Small screen 1](solution%20screenshots/small-screen-1.PNG)  
 ![Small screen 2](solution%20screenshots/small-screen-2.PNG)
 
