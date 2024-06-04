@@ -7,7 +7,7 @@ This is my solution to the final challenge of the [Conquering Responsive Layouts
 - [Overview](#overview)
   - [The design specifications](#the-design-specifications)
   - [My additional features](#my-additional-features)
-  - [Screenshot](#screenshot)
+  - [Solution screenshots](#solution-screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -20,10 +20,10 @@ This is my solution to the final challenge of the [Conquering Responsive Layouts
 
 ### The design specifications
 
-The given design is for big screens over 1000pixels:  
+**The given design is for big screens over 1000pixels:**  
 ![Big screen layout](design%20specifications/big-screen-layout.PNG)
 
-Additional specifications including typography and layout of middle section for small and medium screens:  
+**Additional specifications including typography and layout of middle section for small and medium screens:**  
 ![Additional specifications](design%20specifications/additional-specifications.PNG)
 
 Users should be able to:
@@ -36,20 +36,20 @@ Users should be able to:
 - I implemented `navigation toggle button` for mobile (small screen) such that navigation is hidden until toggled on
 - I improvised the layout for the navigation, header and footer sections for small and medium screens as they were not given in the design.
 
-### Screenshot
+### Solution screenshots
 
-Small screen - nav toggle on:  
+**Small screen - nav toggle on:**  
 ![Small screen nav](solution%20screenshots/small-screen-nav.PNG)
 
-Small screen - nav toggle off:  
+**Small screen - nav toggle off:**  
 ![Small screen 1](solution%20screenshots/small-screen-1.PNG)  
 ![Small screen 2](solution%20screenshots/small-screen-2.PNG)
 
-Medium screen:  
+**Medium screen:**  
 ![Medium screen 1](solution%20screenshots/medium-screen-1.PNG)  
 ![Medium screen 2](solution%20screenshots/medium-screen-2.PNG)
 
-Big screen:  
+**Big screen:**  
 ![Big screen 1](solution%20screenshots/big-screen-1.PNG)  
 ![Big screen 2](solution%20screenshots/big-screen-2.PNG)
 
