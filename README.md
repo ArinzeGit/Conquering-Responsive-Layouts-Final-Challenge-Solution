@@ -55,8 +55,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: View the GitHub repository [here](https://github.com/ArinzeGit/Conquering-Responsive-Layouts-Final-Challenge-Solution)
-- Live Site URL: I have hosted the project on GitHub Pages [here](https://arinzegit.github.io/Conquering-Responsive-Layouts-Final-Challenge-Solution/)
+- [GitHub Repository](https://github.com/ArinzeGit/Conquering-Responsive-Layouts-Final-Challenge-Solution)
+- [Live Site URL](https://arinzegit.github.io/Conquering-Responsive-Layouts-Final-Challenge-Solution/)
 
 ## My process
 
