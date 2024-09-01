@@ -1,6 +1,6 @@
 # Conquering Responsive Layouts - Final Challenge Solution
 
-This is my solution to the final challenge of the [Conquering Responsive Layouts](https://courses.kevinpowell.co/conquering-responsive-layouts) course by [Kevin Powell](https://www.youtube.com/@KevinPowell). Kevin Powell is a web designer, front-end developer and YouTube tutor with over 913,000 subscribers and 794 video tutorials focused mainly on CSS.
+This is my solution to the final challenge of the [Conquering Responsive Layouts](https://courses.kevinpowell.co/conquering-responsive-layouts) course by [Kevin Powell](https://www.youtube.com/@KevinPowell). Kevin Powell is a web designer, front-end developer and YouTube tutor with almost 1 million subscribers and 794 video tutorials focused mainly on CSS.
 
 ## Table of contents
 
